@@ -1,0 +1,1 @@
+Fetches/Removes (upon request) AD-users activesync sessions. 
